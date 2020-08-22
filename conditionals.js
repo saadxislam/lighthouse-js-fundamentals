@@ -43,7 +43,7 @@ if (temperature < 40 || temperature > 40){
   console.log("Don't go out")
 }
 
-raining = false;
+raining = true;
 if(!raining){
   console.log("Get wet!")
 }
