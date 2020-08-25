@@ -112,3 +112,10 @@ for (let i = 12; i >= 1; i--) {
 }
 
 console.log(solution);
+
+
+i= 12
+
+while(i >=1)[
+  solution 
+]
