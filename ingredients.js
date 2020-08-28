@@ -1,4 +1,4 @@
-const ingredients = ["eggs", "milk", "flour", "sugar", "baking soda", "baking powder", "chocolate chips", "bananas"];
+// const ingredients = ["eggs", "milk", "flour", "sugar", "baking soda", "baking powder", "chocolate chips", "bananas"];
 
 // Write a while loop that prints out the contents of ingredients:
 
@@ -17,7 +17,7 @@ while (i < ingredients.length){
 for (let i = 0; i < ingredients.length; i++){
   console.log(ingredients[i]);
 }
-*/
+
 console.log(ingredients.length); 
 
 let r = 7;
@@ -25,3 +25,8 @@ while (r < ingredients.length && r >= 0){
   console.log(ingredients[r])
   r--
 }
+*/
+
+// ABOVE: ingredients challenge
+//BELOW: Looping Range challenge
+
